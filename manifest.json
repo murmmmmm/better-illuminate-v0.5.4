@@ -1,0 +1,17 @@
+{
+  "Version": 1,
+  "Guid": "a5666e36-2b40-5fd6-be86-49407e331796",
+  "Name": "better illuminate v0.5.4",
+  "Description": "Better Illuminate v0.5.4, internal Build 54. Recovery repair; requires Bingus Shared Loader v19, supplied separately. Full queued overhaul work continues in Build 55.",
+  "Options": [
+    {
+      "Name": "better illuminate v0.5.4",
+      "Description": "Illuminate overhaul. Enable the separate Bingus Shared Loader alongside this mod.",
+      "Include": [
+        "Addon"
+      ]
+    }
+  ],
+  "InternalBuild": 54,
+  "Revision": "2026-10-19-playtest-lua-only-illuminate54-recovery"
+}
